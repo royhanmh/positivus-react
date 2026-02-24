@@ -176,7 +176,7 @@ function FooterLayout() {
           marginTop: "35px",
         }}
       >
-        <span>© 2023 Positivus.</span>
+        <span>© 2023 Positivus. All Rights Reserved.</span>
         <a
           href="#"
           style={{
@@ -184,7 +184,7 @@ function FooterLayout() {
             color: "#fff",
           }}
         >
-          All Rights Reserved.
+          Privacy Policy
         </a>
       </div>
     </div>
